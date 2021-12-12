@@ -1,2 +1,2 @@
 # PortalPM-CSS
-Práctica Laboratorio N° 1- Estilos CSS y TypeScript
+Práctica Laboratorio N° 2- Estilos CSS y TypeScript
